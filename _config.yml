@@ -1,6 +1,6 @@
 title: "Тестовый блог"
 description: "Тестовый блог"
-baseurl: ""
+baseurl: "/herokiller"
 url: "https://herokiller.github.io"
 
 plugins:
