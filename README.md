@@ -8,7 +8,7 @@
 
 ## 🔗 Ссылка на блог
 
-👉 [https://your-username.github.io/your-repo-name](https://herokiller.github.io)
+👉 [https://herokiller.github.io/herokiller](https://herokiller.github.io/herokiller)
 
 ---
 
